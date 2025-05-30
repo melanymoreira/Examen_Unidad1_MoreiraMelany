@@ -74,7 +74,7 @@ El uso de sockets es fundamental en aplicaciones en tiempo real, ya que permite 
 
 ### Requisitos previos
 
-- Tener instalado [Node.js](https://nodejs.org/).
+- Tener instalado [Node.js](https://nodejs.org/).  
     ![Node](src/public/img/Node.png)
 - Tener instalado [npm](https://www.npmjs.com/).
 - Instalar el paquete `cookie-parser` (usado para el manejo de cookies en Express):
