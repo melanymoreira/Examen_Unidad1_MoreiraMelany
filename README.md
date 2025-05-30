@@ -53,19 +53,19 @@ El uso de sockets es fundamental en aplicaciones en tiempo real, ya que permite 
 
 ### Capturas de pantalla
 - **Registro De Usuario**
-  _Captura donde se observa el registro de los usuarios._
+  _Captura donde se observa el registro de los usuarios._  
     ![Registro del Usuario](src/public/img/Registro.png)
 - **Inicio del chat:**  
-  _Captura donde se ve nuestro inicio del chat, vetana principal._
+  _Captura donde se ve nuestro inicio del chat, vetana principal._  
     ![Inicio del Chat](src/public/img/InicioChat.png)
 - **Lista de usuarios conectados:**  
-  _Captura donde se ve la lista de usuarios con los iconos de estado._
+  _Captura donde se ve la lista de usuarios con los iconos de estado._    
   ![Lista de Usuarios Conectados y Desconectados](src/public/img/Estado.png)
 - **Intercambio de mensajes:**  
-  _Captura mostrando mensajes alineados a la izquierda y derecha según el usuario._
+  _Captura mostrando mensajes alineados a la izquierda y derecha según el usuario._  
   ![Intercambio de Mensajes](src/public/img/Intercambio.png)
 - **Vista responsiva:**  
-  _Captura del chat en una pantalla móvil o ventana pequeña._
+  _Captura del chat en una pantalla móvil o ventana pequeña._  
   ![Vista Responsiva](src/public/img/Responsivo.png)
 
 ---
@@ -74,14 +74,14 @@ El uso de sockets es fundamental en aplicaciones en tiempo real, ya que permite 
 
 ### Requisitos previos
 
-- Tener instalado [Node.js](https://nodejs.org/).  
+- Tener instalado [Node.js](https://nodejs.org/).    
     ![Node](src/public/img/Node.png)
 - Tener instalado [npm](https://www.npmjs.com/).
-- Instalar el paquete `cookie-parser` (usado para el manejo de cookies en Express):
+- Instalar el paquete `cookie-parser` (usado para el manejo de cookies en Express):  
     ![cookieParser](src/public/img/Cookie.png)
   ```bash
   npm install cookie-parser
-- Instalar express y socket.io
+- Instalar express y socket.io  
     ![Express y Socket.io](src/public/img/ExpressSocket.png)
   ```bash
   npm install cookie-parser
@@ -92,32 +92,32 @@ El uso de sockets es fundamental en aplicaciones en tiempo real, ya que permite 
    ```bash
    npm install
    ```
-   _Instalación de dependencias._
+   _Instalación de dependencias._  
    ![npm Install](src/public/img/Install.png)
 
 2. **Ejecutar el servidor:**
    ```bash
    npm start
    ```
-   _Servidor está corriendo._
+   _Servidor está corriendo._  
    ![npm Start](src/public/img/start.png)
 
 3. **Abrir el chat en el navegador:**
    - Ir a `http://localhost:3000`
-   _Chat abierto en el navegador._
+   _Chat abierto en el navegador._  
    ![Navegador](src/public/img/InicioChat.png)
 
 ---
 
 ## Capturas de Pantalla
 
-- Chat en funcionamiento con varios usuarios conectados.
+- Chat en funcionamiento con varios usuarios conectados.  
     ![Chat](src/public/img/Intercambio.png)
-- Lista de usuarios mostrando conectados y desconectados.
+- Lista de usuarios mostrando conectados y desconectados.  
     ![Lista de Usuarios](src/public/img/Estado.png)
-- Mensajes alineados correctamente.
+- Mensajes alineados correctamente.  
     ![Intercambio de mensajes](src/public/img/Intercambio.png)
-- Vista en dispositivo móvil.
+- Vista en dispositivo móvil.  
     ![Responsivo](src/public/img/Responsivo.png)
 
 ---
